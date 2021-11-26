@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1609793067 source:c:\users\user\desktop\c++\pittex\pittex\main.cpp
+	<iostream>
+	<string>
+	<ctime>
+
